@@ -38,7 +38,18 @@ We store user information on servers located in the United States and other coun
 If you provide Personal Data through the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to servers in other locations.
 
 ### Data Retention
-We retain your data indefinitely in order to provide the Services.
+We retain your data indefinitely in order to provide the Services. The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
+
+### Third Parties
+OpenAI: Our app integrates with OpenAI’s API to deliver advanced AI functionalities. We share user queries and interactions with OpenAI to generate accurate responses and improve the AI model's performance.
+
+Service Providers: We share data with trusted service providers who assist in operating our app. These include:
+
+Cloud Storage Providers: We use cloud services (Google Cloud) to store and manage data securely.
+
+Analytics Services: We utilize analytics services (ConfigCat, Superwall) to understand app usage, identify trends, and improve app performance.
+
+Advertising Partners: If our app includes advertising, we share data with advertising partners to deliver relevant ads and measure their effectiveness. These partners may include ad networks and social media platforms (e.g., Google AdMob, Tik Tok, Facebook Ads).
 
 ## Children
 Text Expert does not knowingly collect Personal Data from children under the age of 13 and does not target our services to children under 13. If you are under 13, please do not submit any Personal Data through the Services. 
