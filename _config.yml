@@ -38,15 +38,15 @@ features                                  :
 
   - title                                 : Start conversations easily. 
     description                           : Come up with smart conversation openers. 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : message
     
   - title                                 : Improve your reply game. 
     description                           : Upload a chat screenshot for smart reply suggestions.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : reply
 
   - title                                 : Give context
     description                           : Come up with thoughtful and witty responses given the context of situations.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : list
 
 # Theme Settings
 topbar_color                              : "#000000"
