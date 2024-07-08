@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <title>Support Page</title>
     <style>
         body {
@@ -20,11 +20,12 @@
         }
 
         main {
-            max-width: 800px;
+            max-width: 90%;
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
         }
 
         footer {
@@ -32,6 +33,7 @@
             padding: 1em 0;
             background-color: #333;
             color: #fff;
+            margin-top: 20px;
         }
 
         a {
@@ -42,20 +44,31 @@
         a:hover {
             text-decoration: underline;
         }
+
+        @media (max-width: 600px) {
+            main {
+                padding: 10px;
+            }
+        }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>Customer Support</h1>
-    </header>
+<header>
+    <h1>Customer Support</h1>
+</header>
 
-    <main>
-        <h2>Contact Us</h2>
-        <p>Click the link below to contact our support team:</p>
+<main>
+    <h2>Contact Us</h2>
+    <p>Click the link below to contact our support team:</p>
 
-        <p>Email: <a href="mailto:repkeeperhelp@gmail.com">textexpertfeedback@gmail.com</a></p>
-    </main>
+    <p>Email: <a href="mailto:repkeeperhelp@gmail.com">repkeeperhelp@gmail.com</a></p>
+</main>
+
+<footer>
+    <p>&copy; 2024 Company Name. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
+
