@@ -57,3 +57,6 @@ Text Expert does not knowingly collect Personal Data from children under the age
 We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data through any of our Services. If you have reason to believe that a child under the age of 13 has provided Personal Data to us, please contact us, and we will discontinue the provision of services accordingly. 
 
 <br>
+
+## Changes to this Policy
+This policy replaces all previous policies. We reserve the right to change this policy at any time.
