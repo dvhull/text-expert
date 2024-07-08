@@ -10,30 +10,30 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
 
         main {
-            max-width: 90%;
-            margin: 20px auto;
+            width: 90%;
+            max-width: 600px;
             padding: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
+            text-align: center;
         }
 
-        footer {
-            text-align: center;
-            padding: 1em 0;
-            background-color: #333;
-            color: #fff;
-            margin-top: 20px;
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #666;
+            line-height: 1.6;
         }
 
         a {
@@ -44,31 +44,15 @@
         a:hover {
             text-decoration: underline;
         }
-
-        @media (max-width: 600px) {
-            main {
-                padding: 10px;
-            }
-        }
     </style>
 </head>
 <body>
 
-<header>
-    <h1>Customer Support</h1>
-</header>
-
 <main>
-    <h2>Contact Us</h2>
+    <h1>Customer Support</h1>
     <p>Click the link below to contact our support team:</p>
-
     <p>Email: <a href="mailto:repkeeperhelp@gmail.com">repkeeperhelp@gmail.com</a></p>
 </main>
 
-<footer>
-    <p>&copy; 2024 Company Name. All rights reserved.</p>
-</footer>
-
 </body>
 </html>
-
