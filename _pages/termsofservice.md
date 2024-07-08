@@ -58,13 +58,7 @@ Modify, copy, lease, sell or distribute any of our Services.
 
 Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
 
-Automatically or programmatically extract data or Output (defined below).
-
-Represent that Output was human-generated when it was not.
-
 Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.
-
-Use Output to develop models that compete with OpenAI.
 
 ## Your Health
 
