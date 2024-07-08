@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Start conversations easily. 
     description                           : Come up with smart conversation openers. 
-    fontawesome_icon_name                 : message
+    fontawesome_icon_name                 : comment
     
   - title                                 : Improve your reply game. 
     description                           : Upload a chat screenshot for smart reply suggestions.
